@@ -157,5 +157,12 @@ h1{
   background-color: #8e98f3;
   transition: 0.5s;
 }
+a:link, a:visited {
+  color: #fdd21e;
+}
+
+a:hover, a:active {
+  color: #fdd21e;
+}
 
 </style>
