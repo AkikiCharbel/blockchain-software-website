@@ -1,0 +1,11 @@
+/* Webfont: Kango-Regular */@font-face {
+    font-family: 'Kango';
+    src: url('Kango Typeface.eot'); /* IE9 Compat Modes */
+    src: url('Kango Typeface.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('KangoTypeface.woff') format('woff'), /* Modern Browsers */
+         url('Kango Typeface.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
