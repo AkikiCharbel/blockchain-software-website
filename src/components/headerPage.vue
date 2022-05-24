@@ -28,7 +28,11 @@
     
     <div class="container text-center header-middle-content">
       <h1>Mint your fav NFT</h1>
-      <button class="join-discord-btn py-2 px-4">GO MINT</button>
+      <button class="join-discord-btn py-2 px-4">
+        <a href="https://idyllic-dolphin-cc67b7.netlify.app/">
+          GO MINT
+        </a>
+      </button>
     </div>
   </div>
 </template>
