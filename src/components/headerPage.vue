@@ -161,8 +161,4 @@ a:link, a:visited {
   color: white;
 }
 
-a:hover, a:active {
-  color: white;
-}
-
 </style>
