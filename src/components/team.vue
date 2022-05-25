@@ -38,21 +38,21 @@ export default {
     return {
       list: [
         {
-          name: 'Marc El Hajjar',
+          name: 'Fady',
           src1: 'team-default-image.png',
           jobtype: 'Founder',
 
         },
 
         {
-          name: 'Elias Al Kallasy',
+          name: 'Nisrine',
           src1: 'team-default-image.png',
           jobtype: 'Co-Founder',
 
         },
 
         {
-          name: 'Ray Doueihy',
+          name: 'John',
           src1: 'team-default-image.png',
           jobtype: 'Chief Editor',
         },
